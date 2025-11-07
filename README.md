@@ -50,7 +50,8 @@ It includes data cleaning, preprocessing, feature scaling, and a Random Forest c
    pip install pandas numpy scikit-learn matplotlib
    ```
 3. **Run the notebook:**
-   ```jupyter notebook alzheimers_data.ipynb
+   ```bash
+   jupyter notebook alzheimers_data.ipynb
    ```
 
 ## Future Improvements
